@@ -1,0 +1,71 @@
+﻿Date,Customer_ID,Customer_name,Car_name,Company_Name,Manufacturing_Date,Miles_driven,State,City,Price,Availability
+2024-06-19,6f6b7e06-9bd6-4887-b6a4-d17fe9336800,Adam Mathews,Nissan Altima,Johns LLC,2022-10-07,122428,Colorado,Port Timothy,44440,FALSE
+2024-04-14,4e109bb9-3054-4ae3-8448-427c1b4c6fe4,Jared Rojas,Chevrolet Impala,Farley-Jordan,2020-07-08,92921,North Carolina,Hayneston,51323,TRUE
+2024-04-20,80cc5136-e8a6-44c8-acb8-c59cdc410dab,Heather Joyce,Nissan Altima,"Montoya, Mays and Spencer",2007-08-08,80330,Iowa,South Jordan,60412,TRUE
+2023-09-08,03399d5e-5f1e-49de-97c0-2af426f90de0,Matthew Colon,BMW 3 Series,Reynolds-Carter,2012-04-16,123450,Arkansas,North Lindsey,38215,FALSE
+2020-04-02,23fa4b55-0691-40d2-bab7-9ae6aa205eac,Ian Watson,Ford Mustang,Kent-Harvey,2009-05-06,11581,Maine,New Leslie,61471,FALSE
+2023-02-19,c5384ec5-c713-4e2e-bd4e-a399437ea310,Benjamin Hernandez,Tesla Model 3,Whitaker and Sons,2004-12-12,28223,Florida,Scottshire,62215,FALSE
+2023-08-21,e8ca9364-48f2-4b8f-9d2e-b92922e142d6,Jessica Harris,Kia Optima,Robertson-Bauer,2012-02-21,147258,Michigan,West Lydiahaven,25282,FALSE
+2023-02-23,4411185f-149a-410a-8039-19e46804971b,Richard Walker,Ford Mustang,"Hebert, Hayes and Cooper",2017-01-07,131365,Michigan,West Jonathonfurt,72606,TRUE
+2023-12-04,460eeb60-89f5-4cbe-b30e-8a652e4eb3d2,Rodney Garcia,Toyota Camry,"Craig, Collins and Beard",2000-04-22,111568,California,Burgessstad,68838,TRUE
+2022-02-15,d6a320fd-3f7d-4d24-86bd-681ce11f6604,Cheryl Pittman,Mazda 6,"Garrett, Martin and Johnson",2012-04-08,91887,Arkansas,Wilsonborough,23338,TRUE
+2021-07-11,1c76c2b1-d25c-4c9f-beb9-4b10ddf90420,Susan Martin,Honda Accord,"Cole, Parker and Tucker",2002-01-17,139644,Pennsylvania,Matthewshire,44715,FALSE
+2022-10-27,17e9616a-3c81-42a7-8278-3021c8c30ca1,Emily Gillespie,Tesla Model 3,Kelly and Sons,2019-05-03,191870,California,Port Marthamouth,33071,TRUE
+2024-03-24,0da1028b-c1b1-47be-aa27-b7da5671f332,Alexandra Stewart,Volkswagen Jetta,Ramirez Inc,2015-06-18,161865,Wyoming,Keithfort,62977,FALSE
+2022-02-07,e641af11-0463-4b94-9d22-123f6cdc7a96,Amanda Martin,Audi A4,Adkins Group,2024-01-20,8994,Tennessee,West Garyside,41700,FALSE
+2020-01-22,b5aa0e51-5d83-49a1-8a6a-7ba00609fcfa,Kristina Olson,Tesla Model 3,Martinez-Davis,2015-04-11,101124,South Carolina,Millerchester,23735,FALSE
+2020-12-09,89f11aa2-4073-434a-bbc3-13ac57e1bf65,Logan Sanchez,Nissan Altima,"Roberts, Jones and Williams",2023-09-18,99387,Louisiana,Lopezmouth,94331,FALSE
+2023-05-28,46b23e22-779e-449c-a198-5cb4f8827b5f,Brandon Morgan,Chevrolet Impala,"Bowen, Moody and Hudson",2009-03-10,101533,Pennsylvania,Lake Pamela,19394,TRUE
+2020-09-06,e3d7af53-081d-4504-ab78-d4bc6b12b3c7,Bonnie Sanchez,BMW 3 Series,"Smith, Good and Martin",2024-05-11,65315,Nebraska,Brandonmouth,85717,TRUE
+2021-06-30,2a664d22-f93f-44f0-af6d-f62fd468aa49,Patrick Brown DDS,Tesla Model 3,Payne-Sloan,2006-08-06,23666,Georgia,East Kevin,67204,FALSE
+2024-01-18,26f47bbe-a0c4-47ea-b835-351fa56de497,Jesse Knight,Toyota Camry,Hall and Sons,2006-02-03,177634,North Carolina,Lake David,75414,TRUE
+2020-11-29,3822889e-c183-491c-8df9-d6bb8ef50dc0,Margaret Ward,Subaru Outback,"Flores, Greene and Jackson",2000-03-13,136722,Washington,Petersonberg,33563,TRUE
+2024-04-12,5d9b7a16-74d1-4851-9322-b10f6dc60b21,Dawn Barton,Volkswagen Jetta,Smith Inc,2023-04-21,106013,North Dakota,Matthewfurt,28601,TRUE
+2024-06-11,32ebcde9-4654-40b1-9b3f-856ebfda0b1c,Kathleen Watson,Mercedes-Benz C-Class,Cochran LLC,2016-05-03,31017,Hawaii,Wallerfurt,45269,FALSE
+2021-06-04,2dc91249-f517-42fc-881d-739a7ff635a5,Troy Thomas,Audi A4,Johnson-James,2000-11-19,120885,Kentucky,Ramostown,84372,FALSE
+2020-08-01,69686c68-4d2f-4274-95ce-952272b8b4c5,Jonathan Houston,Chevrolet Impala,Davis PLC,2011-05-07,20588,Nevada,Ericaport,17290,TRUE
+2022-03-09,773a0557-8f59-4237-a897-5cfeb10d0bcd,Jennifer Barnett,Audi A4,Wise-Thomas,2014-05-12,99174,Maine,Justinton,58976,FALSE
+2020-06-14,9697c1c7-d17a-41bf-9a41-da94ee5c8a8e,Tina Burnett,Kia Optima,Brandt-Sheppard,2022-12-18,119886,Rhode Island,North Bobby,20192,FALSE
+2024-02-12,ee308409-8111-4dad-a890-864db991611d,Cheryl Carter,Hyundai Elantra,Smith PLC,2014-07-30,64787,Michigan,Powellborough,19302,TRUE
+2024-06-17,5e809cb7-129d-440b-93a6-41b8cf65c4cd,Catherine Evans,Mazda 6,"Holmes, Williams and Petersen",2016-03-17,183408,South Carolina,North Melissa,49540,TRUE
+2021-08-29,bf31062f-591a-435c-a8f8-e2b2dacec9cf,David Rodriguez,Porsche 911,"Goodman, Lewis and Jackson",2003-05-09,180300,Arizona,Port James,90887,FALSE
+2023-05-01,b112f772-9cfe-4ea5-b2c4-36553e39badf,Joshua Evans,Subaru Outback,Thompson-Lee,2000-09-26,133941,Rhode Island,Brittanyhaven,39635,TRUE
+2021-08-30,1ac1e05f-2f72-4649-9e2f-80ab62f2e7df,Eric Buck,Ford Mustang,Brooks-Brown,2008-03-30,97736,Iowa,Port Kim,86160,FALSE
+2020-07-28,de8718d7-0e40-41b0-bdc6-d3b6200289a6,Joseph Rios,Chevrolet Impala,Costa PLC,2006-11-22,82352,Idaho,New Michael,78064,FALSE
+2020-04-05,d979c7f9-566a-49fd-8b7d-750cd024c6f8,Beth Morris,Ford Mustang,Davis Ltd,2014-12-27,59219,Utah,Hartstad,76678,TRUE
+2020-11-09,e1c7e2f4-8fa0-439b-ac84-8a84bd565728,Sydney Sullivan,Volkswagen Jetta,"Chandler, Hill and Padilla",2022-07-23,186049,Rhode Island,East Bryanstad,75402,TRUE
+2021-01-11,90ed803e-e846-4a8a-b98e-5b5060051386,Susan Riddle,Tesla Model 3,"Hernandez, Richards and Barker",2016-03-04,41738,Minnesota,Lake Jamieport,51257,TRUE
+2020-04-02,ee721e67-d8f4-484a-9151-c7a1a677afb9,Jeffrey Anderson,Mercedes-Benz C-Class,Ortiz-Smith,2020-04-03,107976,Missouri,South Jorge,22679,FALSE
+2022-12-26,7a71ccb9-9cc8-4378-8ef9-87e409b80f5f,Lisa Dennis,Ford Mustang,"Hardy, Gardner and Sexton",2008-12-13,149857,Montana,North Bryan,81682,TRUE
+2021-07-02,d2bb92fe-11e5-402b-a5d0-b84fcaa70364,Andrew Thompson,Toyota Camry,Nunez Group,2017-05-14,136998,South Dakota,North Monicatown,46377,TRUE
+2022-12-30,c38883b1-0420-4da2-9140-a5a961564394,Katie Stone,Ford Mustang,Yang PLC,2008-02-02,167903,South Dakota,Lake Jamesfurt,47866,TRUE
+2020-01-07,be838321-5463-4840-b394-50c491fbed09,Patricia Hodge,Kia Optima,Mcgee Ltd,2008-10-17,85159,Washington,Lake John,68294,TRUE
+2023-05-27,33357264-06d7-42aa-846f-2e58c4b8331f,Juan Webb,Tesla Model 3,Fleming Ltd,2022-03-16,30464,Maine,Port Matthewside,63302,FALSE
+2022-12-26,4a61e2c7-d5ec-4f21-af60-2c5ac4fb9c2b,Holly Davis,BMW 3 Series,Jenkins-Abbott,2001-03-15,113395,Rhode Island,Jonesside,46906,FALSE
+2022-04-16,c2db89ff-d48f-42bf-a8b8-4c870f2f6922,Michelle Koch,Porsche 911,Kim LLC,2002-06-24,108824,Hawaii,Hectorshire,25593,FALSE
+2020-07-28,c43227c6-e2f1-4e8e-a666-5e6c7d0ff775,Michelle Jimenez,Tesla Model 3,"Hensley, Lopez and Dunlap",2019-11-21,4644,Oregon,Jeffreyville,73953,FALSE
+2023-08-31,f8d8661e-d623-4fee-9d5c-a12b889906db,Nicole Blair,Audi A4,"Williams, Nguyen and Delgado",2012-09-10,7518,Nebraska,South Paulhaven,31837,TRUE
+2022-05-12,485d5663-a279-42f1-a7a5-6eef7addd5bc,Tanya Moreno,BMW 3 Series,"Reed, Bryant and Harrison",2021-11-13,177481,Wyoming,Jenniferfurt,16807,TRUE
+2021-09-07,15175a56-a03a-45ee-803f-53e8aa496c2b,Kendra Murray,Ford Mustang,Kelly PLC,2017-05-06,152565,Iowa,North Ericton,40462,FALSE
+2022-09-25,916720eb-dccd-421a-b6a4-ceb25088b7a6,Jacqueline Mills,Nissan Altima,Deleon Inc,2022-10-01,129506,Missouri,New Valerieburgh,78794,FALSE
+2021-01-22,f12c0895-d4b1-4edf-ba17-b1c7bd220ece,Nicholas Mcconnell,BMW 3 Series,Hicks PLC,2002-08-23,34284,North Carolina,North Jose,40636,FALSE
+2020-07-05,897bfbcd-45e4-4683-943d-c692fe1abb0c,Jeremy Miller,Subaru Outback,Buck PLC,2022-03-24,116318,Ohio,Rodriguezshire,37555,TRUE
+2020-09-13,8102469a-6850-496b-a0c6-ca928e1183f9,Frederick Wade,Porsche 911,Snow LLC,2002-03-09,195809,Wisconsin,Cassidyshire,24886,TRUE
+2023-03-25,f9428fee-0158-4b5e-b6b0-2cc918ae2ba5,Robert Hines,Kia Optima,Rodriguez Ltd,2008-05-25,112462,New Mexico,Port Crystalfort,28004,FALSE
+2023-03-27,8ec800ed-f962-4f15-b2a2-a8e5fea05916,Ashley Kent,Toyota Camry,Duffy-Davis,2017-01-15,194389,Delaware,Wardburgh,57803,TRUE
+2024-01-31,ef4ff3a6-2cac-4974-b7cc-b93e1f83b328,Christopher Johnson,Mercedes-Benz C-Class,"Nixon, Sanchez and Middleton",2023-04-26,196519,Ohio,West Tammyborough,47580,FALSE
+2022-02-05,b292870a-1b25-4c41-b97a-42eff84e00e0,Brad Martinez,Kia Optima,Myers PLC,2020-12-21,36810,California,Sandersberg,70278,TRUE
+2023-05-12,5b30c389-b661-4299-ac64-5245e5b954df,Sabrina Martin,Nissan Altima,"Le, Olsen and Williams",2013-05-24,140916,Pennsylvania,Raymondchester,81263,FALSE
+2023-04-20,99c25679-dd0e-413d-85c2-29c422d58bd1,Jenna Huffman,Kia Optima,"Ibarra, Malone and Hernandez",2007-03-18,42522,Wisconsin,North Josefurt,58955,TRUE
+2022-05-19,9e060397-4cef-412d-bd8a-af823515eede,Ryan Lynch,Volkswagen Jetta,Barry LLC,2020-11-24,91406,Arizona,Gonzalesbury,90754,FALSE
+2024-02-13,1ab0f56e-dac1-47b4-9cc3-e0021a797e9d,Christopher Garza,Honda Accord,Crawford-Morrow,2019-05-14,133218,South Carolina,New Crystal,17743,TRUE
+2023-09-23,841116d1-5328-4749-a18b-00f493c90ef7,James Walker,Porsche 911,"Garcia, Bryant and Hanson",2008-12-02,90900,Kentucky,East Hannahhaven,42328,TRUE
+2021-11-25,98fd01e1-81dc-4e97-ba75-17ade50bb422,Renee Robinson,Chevrolet Impala,Richards-Wallace,2013-06-05,14775,Vermont,West Amy,22397,TRUE
+2023-01-08,78e60f8a-bd86-4edb-850c-0fcbfbd58f9d,Dennis Le,Mercedes-Benz C-Class,Woods-Wise,2011-12-09,88202,South Dakota,North Kyle,63553,TRUE
+2021-08-19,f56569af-a497-4aae-95d9-8a485ec0cb3c,William Gomez,Porsche 911,Davis-Anderson,2002-11-08,57483,Iowa,East Derrick,96972,TRUE
+2023-05-05,8bc405d9-b21b-466c-9fe2-ae5c68bb7136,Thomas Benton,Toyota Camry,"Taylor, Thomas and Allen",2001-03-02,93296,Rhode Island,Fitzpatrickshire,69742,FALSE
+2022-09-04,56797b7b-6d31-4f31-ac41-326e12dd713f,Marc Blackburn,Chevrolet Impala,Nguyen PLC,2000-01-16,877,Pennsylvania,Whiteheadtown,24369,TRUE
+2020-02-03,e0f938be-fcce-4224-80bf-1230e37ba130,Alexis Fox,BMW 3 Series,Gonzalez PLC,2023-12-21,149614,Connecticut,Port John,31664,FALSE
+2024-02-08,7d710352-4e53-4e52-b340-d1b28704e765,Anita Wilcox,Volkswagen Jetta,"Riley, Montoya and Peters",2021-05-11,179307,New Mexico,Yorkville,56966,TRUE
+2022-11-13,1fd2db2c-b2a7-4031-b980-d9c9ad732cf1,Sheila Davies,Chevrolet Impala,"Abbott, Parker and Thomas",2000-08-05,42187,Wisconsin,Davidchester,52124,TRUE
+2023-12-18,f3df6713-b5e3-4a01-bc6e-5f34d825e103,Kevin Gamble,Mercedes-Benz C-Class,Clark-Jones,2017-05-11,18221,Montana,New Rhondamouth,86547,TRUE
