@@ -32,4 +32,4 @@ INSERT INTO car_sales (
     'San Francisco',55000.00,FALSE);
 
 
-select availability from car_sales where car_name ='Tesla CYBERTRUCK';
+SELECT availability FROM car_sales WHERE car_name ='Tesla CYBERTRUCK';
